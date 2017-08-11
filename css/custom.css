@@ -1,0 +1,101 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #D0D0D0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.img-custom {
+  margin-top: 20px;
+}
+
+.background-color-goals {
+  background-color: #1E767A;
+  color: white;
+  border-style: solid;
+  border-width: 0 0 0 15px;
+  border-color: #734861;
+  font-size: 17px;
+  line-height: 1.3;
+}
+
+.background-color-experience {
+  background-color: #9ED1C7;
+  color: white;
+  border-style: solid;
+  border-width: 0 0 0 15px;
+  border-color: #734861;
+}
+
+.background-color-education {
+  background-color: #C6E1B7;
+  color: white;
+  border-style: solid;
+  border-width: 0 0 0 15px;
+  border-color: #734861;
+}
+
+.background-color-skills {
+  background-color: #9CBF89;
+  color: white;
+  border-style: solid;
+  border-width: 0 0 0 15px;
+  border-color: #734861;
+}
+
+.background-color-references {
+  background-color: #9ED1C7;
+  color: white;
+  border-style: solid;
+  border-width: 0 0 0 15px;
+  border-color: #734861;
+}
+
+.container-custom {
+  background-color: white;
+  padding: 40px;
+  border-width: 0;
+}
+
+.container-custom-header {
+  text-align: center;
+}
+
+.container-custom-box {
+  padding: 10px;
+}
+
+.container-custom-box-inner-long {
+  padding: 20px 10px;
+  border-radius: 7px;
+}
+
+.container-custom-box-inner {
+  padding: 15px;
+  border-radius: 7px;
+}
+
+.container-custom-box-inner h3 {
+  margin-top: 0;
+}
+
+.experience-description {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.experience-place {
+  font-weight: bold;
+}
+
+.experience-date {
+  font-style: italic;
+}
+
+.reference-name {
+  font-weight: bold;
+}
